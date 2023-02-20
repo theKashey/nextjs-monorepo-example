@@ -99,7 +99,7 @@
   },
   "packageManager": "yarn@4.0.0-rc.39",
   "resolutions": {
-    "@graphql-inspector/core": "3.3.0"
+    "@graphql-inspector/core": "4.0.0"
   },
   "workspaces": [
     "apps/*",

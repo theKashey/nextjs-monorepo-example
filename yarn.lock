@@ -3439,16 +3439,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-inspector/core@npm:3.3.0":
-  version: 3.3.0
-  resolution: "@graphql-inspector/core@npm:3.3.0"
+"@graphql-inspector/core@npm:4.0.0":
+  version: 4.0.0
+  resolution: "@graphql-inspector/core@npm:4.0.0"
   dependencies:
     dependency-graph: "npm:0.11.0"
-    object-inspect: "npm:1.10.3"
+    object-inspect: "npm:1.12.3"
     tslib: "npm:^2.0.0"
   peerDependencies:
     graphql: ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: d038dfce427725311bf9ffae818b1e620104efa75f46451de7bc68967312fa9593062c382712267aab4c923bd83bfa1f0fedd1c19555013e30605bd7435c41d5
+  checksum: c7d793e48596ac49649b41b453f19f2e8323c06ab6d7b6b3e060c2785a2af07a69d835b448f7b532dd6a7348d19695e3866d9c3efce8d37f8b6cb82c8782cb04
   languageName: node
   linkType: hard
 
@@ -22281,17 +22281,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"object-inspect@npm:1.10.3":
-  version: 1.10.3
-  resolution: "object-inspect@npm:1.10.3"
-  checksum: 75a154852e5ea12b5f55cb2822660d025066e785a14e36ec0dca3e0a5df821c2667b9e1194b4a234d067e28e35f3e525b73733bd557aef235008461c86fd8dae
-  languageName: node
-  linkType: hard
-
-"object-inspect@npm:^1.12.2, object-inspect@npm:^1.9.0":
-  version: 1.12.2
-  resolution: "object-inspect@npm:1.12.2"
-  checksum: 46e3fc4cb6a51a37c21c68bdf682befc2e50a0d1643d1f7cbdce9a5fd13e9d44ae8cbbf1b05f0c8daf739c02eb9044d825544e25c3aef2a7d315980c8c7ccb71
+"object-inspect@npm:1.12.3, object-inspect@npm:^1.12.2, object-inspect@npm:^1.9.0":
+  version: 1.12.3
+  resolution: "object-inspect@npm:1.12.3"
+  checksum: 052c374ab0a4c85201480374c1039dddac0aaa8ef0fcbe1b04026f4c832c5632db6cb63617d6403b2b9dca08d4302d781aeb6c4d0260de4a84118ecaf1b5ebda
   languageName: node
   linkType: hard
 
